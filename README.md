@@ -3,7 +3,7 @@ Homework #1
 
 Code has been refactored with the following changes:
 
-replaced <div> tags with semantic tags
+replaced div tags with semantic tags
 
 added descriptive alt attributes to images
 
